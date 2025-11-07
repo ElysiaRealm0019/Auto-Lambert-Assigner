@@ -1,6 +1,3 @@
-# Auto Lambert Assigner
-Automaticly assigns Lambert materials for maya polygons and renames them according to the names of the polygons.
-
 ## 简介
 
 很简单的小插件，用来给Maya里每一个多边形体附加默认的Lambert材质，并根据多边形体的名字重命名——这样子导入到SP的时候就不会乱套。
